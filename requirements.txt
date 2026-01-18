@@ -1,0 +1,9 @@
+beautifulsoup4
+requests
+pytz
+python-dateutil
+selenium
+webdriver-manager
+gspread
+oauth2client
+google-api-python-client
